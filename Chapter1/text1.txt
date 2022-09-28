@@ -1,0 +1,2 @@
+CSS validation- https://jigsaw.w3.org/css-validator/#validate_by_upload
+HTML validation- https://validator.w3.org/index.html#validate_by_upload+with_options
