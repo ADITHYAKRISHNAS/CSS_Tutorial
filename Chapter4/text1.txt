@@ -1,0 +1,7 @@
+MDN Absolute Length Unit
+
+persentagre -reprecent a faction of some other value
+- allways relative to ather value
+- it is persentage to its perant element
+
+

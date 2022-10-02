@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header{
+    width: 80%;
+} */
+body{
+    min-height: 100vh;
+}
+h1 {
+    border: 2px dashed red;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+    /* half of the 3rem 24 */
+}
+main {
+    width: 50vw;
+    /* % is better choice than vw */
+    background-color: skyblue;
+    font-size: 3rem;
+}
+p{
+    /* font-size: 1rem; */
+     /* defult text size 16px */
+   
+
+    font-size: 2rem;
+        /*32px */
+
+    width: 40ch;
+    /* 40 charecter per line  */
+
+
+    /* font-size: 2em; */
+    /* If there is no font size is saved   */
+
+    /* border: 2px dashed red;
+    padding:0.5em; */
+    /* em first priority is inside the ruleset;
+    then its perantrule set */
+}
+
