@@ -1,0 +1,6 @@
+Leyarse of box modal
+1. comtent
+2. padding 
+3. border 
+4. margin
+
