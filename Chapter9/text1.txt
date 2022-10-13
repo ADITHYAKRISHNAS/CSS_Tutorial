@@ -1,0 +1,1 @@
+pseduo element have more specificity than just element
